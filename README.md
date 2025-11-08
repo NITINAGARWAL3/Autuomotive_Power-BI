@@ -1,4 +1,4 @@
-# Power BI Home Loan Dashboard #
+# Power BI Automotive Dashboard #
 
 **Project Overview**
 
